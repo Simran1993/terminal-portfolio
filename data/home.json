@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "content": [
+        "Hi, I'm {{Singh}} Harsimranjit 🤙",
+        "A {{backend-focused}} Software Developer and {{Contant learner}}."
+      ]
+    },
+    {
+      "content": [
+        "While my passion lies in the {{backend}}, most of my hands-on experience has been as a {{full-stack developer}}, bridging logic with user experience.",
+        "I also enjoy writing clean and efficient code in {{Java}}, often exploring its elegance alongside my core development work."
+      ]
+    },
+    {
+      "content": [
+        "Another great interest of mine is {{UX design}}, that I like to approach in a broader sense and not only through user interfaces.",
+        "I'm a {{passionate}} developer, always looking for new challenges and opportunities to learn."
+      ]
+    },
+    {
+      "content": [
+        "Nowadays, you can find me on <a href=\"https://www.linkedin.com/in/harsimranjit-singh-376802287\" target=\"_blank\" class=\"text-orange\">LinkedIn</a>.",
+        "If you like cringe-inducing experiences, feel free to connect on there.",
+        "You can always check out my work on <a href=\"https://www.github.com/Simran1993/\" target=\"_blank\" class=\"text-pink\">GitHub</a>."
+      ]
+    },
+    {
+      "content": [
+        "{{Click}} on a section on the left to learn more about my {{work}} and past {{experiences}}.",
+        "You can also {{navigate}} through the sections using the {{arrow keys}} or {{Vim motions}}."
+      ]
+    }
+  ]
+}

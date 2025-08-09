@@ -1,0 +1,17 @@
+{
+  "data": [
+    {
+      "name": "Full-Stack Developer",
+      "company": "She Can Do IT",
+      "date": "Sep 2024 - Dec 2024",
+      "title": "Full-Stack Developer (NExtjs, nodejs, Python, Chartjs, MongoDB, TailwindCSS)",
+      "content": [
+      "We initially conjured a {{landing page}} for a noble {{non-profit cause}}",
+      "empowering women and girls to explore the realms of {{IT through free courses and programs}}.",
+      " Over time, it evolved into an {{automated platform}} for managing {{events}}, {{enrollments}}, ",
+      "and {{interactions}}, with visions of {{future visual enchantments}} to support {{charity and change}}."
+]
+    }
+    
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "data": [
+    {
+  "name": "Tiffin Service Backend API",
+  "year": 2025,
+  "demoUrl": "https://github.com/Simran1993/TSS",
+  "content": [
+    "Developed a {{Spring Web}} backend providing {{RESTful APIs}} for a Tiffin Service platform, supporting both mobile and web clients via {{Flutter}}.",
+    "{{Automated}} data entry for new customers and implemented fee reminder notifications for subscription cycles.",
+    "{{Built}} {{endpoints}} to fetch daily dish menus and manage customer cycles, {{eliminating}} reliance on {{manual Excel sheets}}.",
+    "Created an admin dashboard for managing duties, monitoring customer details, and overseeing subscription cycles.",
+    "Planning integration with {{AWS Cloud Storage}} and setting up {{CI/CD}} pipelines using {{GitHub Actions}} for automated deployment."
+  ],
+  "technologies": [
+    "{{Java}}",
+    "{{Spring Web}}",
+    "{{RESTful API}}",
+    "{{Flutter}}",
+    "{{AWS Cloud Storage}}",
+    "{{GitHub Actions}}",
+    "{{MySQL}}",
+    "{{Docker}}"
+  ]
+},
+     {
+      "name": "ACME Medical REST API",
+      "year": 2024,
+      "demoUrl": "https://github.com/Simran1993/ACMEMedicalCorp",
+      "content": [
+        "Developed a secure {{RESTful API}} for ACME Medical Corp enabling {{CRUD operations}} with {{Jakarta EE role-based security}} (ADMIN_ROLE/USER_ROLE).",
+    "Designed {{JPA entities}} (Patient, SecurityUser) mapped to a relational schema, implementing {{JWT authentication}} and automated {{JUnit tests}}.",
+    "Applied {{design patterns}} (Singleton, Factory) and documented endpoints via {{Postman}}.",
+    "Collaborated in an {{Agile}} team using {{Git/GitHub}} for version control."
+  ],
+      "technologies": [
+      "{{Jakarta EE}}",
+    "Hibernate",
+    "{{Eclipse IDE}}",
+    "Payara Server",
+    "{{MySQL}}",
+    "{{JUnit}}",
+    "Postman",
+    "{{Docker}}",
+    "Maven"
+      ]
+    },{
+  "name": "MongoDB Python Web Catalog",
+  "year": 2025,
+  "demoUrl": "https://github.com/Simran1993/MovieReviewWithPython",
+  "content": [
+    "Built a dynamic movie review platform using {{Python}} and {{Flask}} with a flexible {{MongoDB}} schema-less database.",
+    "Integrated {{PyMongo}} for seamless CRUD operations and real-time data manipulation.",
+    "Designed RESTful APIs supporting user authentication, review management, and data retrieval.",
+    "Deployed database on {{MongoDB Atlas}} and tested APIs with {{Postman}}.",
+    "Collaborated using {{Git/GitHub}} in an {{Agile}} development environment."
+  ],
+  "technologies": [
+    "{{Python}}",
+    "{{Flask}}",
+    "{{PyMongo}}",
+    "{{MongoDB Atlas}}",
+    "{{Postman}}",
+    "{{Git}}",
+    "{{Jinja2}}"
+  ]
+},{
+      "name": "Integrated Data Analysis for Transportation Safety Enhancement",
+      "images": ["../images/Projects-img/IDAT1.png", "../images/Projects-img/IDAT2.png", "../images/Projects-img/IDAT3.png"],
+      "year": 2024,
+      "demoUrl": "https://findleads.app",
+      "content": [
+        "The project {{analyzes}} Ottawa’s 2020 transportation collision dataset (10,047 records, 28 features) to enhance road safety via {{data-driven}} insights. Key tasks include {{classification}}, {{outlier detection}} , and {{clustering}} .",
+        "{{Data preprocessing}} involved missing value imputation, {{normalization}}, and feature engineering (date/time parsing, nominal-to-numeric encoding). Core attributes selected for modeling include spatiotemporal factors, collision classification, environmental conditions, traffic control, and injury severity.",
+        "{{Normalized data supports clustering}} and {{outlier detection}}, while categorical transformations enable {{classification via decision trees}}. The goal is to identify critical factors contributing to collision severity for targeted interventions."
+],
+      "technologies": [
+        "{{CSV}}",
+        "MySQL",
+        "{{Weka}}",
+        "PowePoint",
+        "{{RapidMiner}}"
+      ]
+    },
+    {
+  "name": "Food Waste Reduction Platform",
+  "images": ["../images/Projects-img/FWRP3.png", "../images/Projects-img/FWRP1.png","../images/Projects-img/FWRP2.png"],
+  "year": 2024,
+  "demoUrl": "https://github.com/Simran1993/SystemDesignProject",
+  "content": [
+    "The platform {{connects}} food businesses, consumers, and charitable organizations to reduce global food waste through {{custom}} and {{subscription-based}} web services.",
+    "It employs an MVC architecture with {{React}} or {{Angular}} for the front end, business logic using {{Singleton}} and {{Observer}} design patterns, and a {{MySQL}} database managed via the {{DAO}} pattern.",
+    "Security features include {{user authentication}} (multi-factor and OAuth), {{data encryption}} (AES for data at rest, SSL/TLS for data in transit), and compliance with {{GDPR}} and {{HIPAA}} standards.",
+    "Deployment leverages {{cloud infrastructure}} (AWS/Azure), {{Docker}} containerization, and orchestration with {{Kubernetes}} or {{Docker Swarm}} for scalable and fault-tolerant operations.",
+    "Testing involves {{JUnit}} for unit tests, automated {{API testing}}, and {{User Acceptance Testing}} to validate platform functionality."
+  ],
+  "technologies": [
+    "{{Java}}",
+    "{{Apache NetBeans}}",
+    "{{React}}",
+    "{{Angular}}",
+    "MySQL",
+    "{{Docker}}",
+    "JUnit"
+  ]
+},
+    {
+      "name": "Java Android Application",
+      "year": 2024,
+      "demoUrl": "https://github.com/ByteBakersCo/babilema",
+      "content": [
+        "Developed a {{Java-based Android}} app integrating Song Search, Live Weather updates, and a Dictionary for a unified user experience.",
+        "Implemented local {{SQLite}} database storage for saving and managing search terms, song names, and locations with options to view and delete.",
+        "Integrated {{multiple external APIs}} using {{Volley}} for real-time data retrieval and display.",
+        "Enabled multi-language support and included an in-app help menu for user assistance.",
+        "Utilized {{RecyclerView}} to efficiently display lists such as favorite locations, saved words, and search results.",
+        "Conducted {{UI testing}} using {{Espresso}} and unit testing with {{JUnit}} to ensure app quality."
+        
+      ],
+      "technologies": [
+        "{{Java}}",
+    "XML",
+    "{{Android Studio}}",
+    "{{SQLite}}",
+    "Volley",
+    "{{Espresso}}",
+    "{{JUnit}}",
+    "{{Git}}",
+    "GitHub"]
+    },
+    {
+      "name": "Peanut Butter E-Commerce Website",
+      "year": 2023,
+      "demoUrl": "https://github.com/Simran1993/Peanut-Butter-E-Commerce",
+      "content": [
+        "Developed a secure, scalable e-commerce platform with an admin dashboard for product management, implementing CMS-like workflows for streamlined operations.",
+        "Developed PHP-based backend with MySQL for product and user management, ensuring secure data handling via {{XAMPP/Apache}}.",
+        "Designed responsive, cross-device frontend using {{HTML5, CSS3, and JavaScript.}}",
+        "Implemented admin dashboard for inventory, order, and role management.",
+        "Followed clean code standards and collaborated via {{Git/GitHub}}."
+  ],
+      "technologies": [
+        "{{PHP}}",
+    "MySQL",
+    "{{JavaScript}}",
+    "{{HTML5}}",
+    "CSS3",
+    "Apache",
+    "XAMPP",
+    "{{Git}}"
+      ]
+    }
+  ]
+}

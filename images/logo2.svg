@@ -1,0 +1,38 @@
+<svg width="900" height="240" viewBox="0 0 900 240" xmlns="http://www.w3.org/2000/svg" style="background-color:black;">
+  <style>
+    .text {
+      font-family: 'Courier New', Courier, monospace;
+      font-weight: bold;
+      font-size: 18px;
+      fill: white;
+      white-space: pre;
+    }
+  </style>
+  <text x="10" y="25" class="text">
+    ░██     ░██                           ░██                                           
+  </text>
+  <text x="10" y="50" class="text">
+    ░██     ░██                                                                         
+  </text>
+  <text x="10" y="75" class="text">
+    ░██     ░██ ░██████  ░██░████░███████ ░██░█████████████ ░██░████░██████  ░████████  
+  </text>
+  <text x="10" y="100" class="text">
+    ░██████████      ░██ ░███   ░██       ░██░██   ░██   ░██░███         ░██ ░██    ░██ 
+  </text>
+  <text x="10" y="125" class="text">
+    ░██     ░██ ░███████ ░██     ░███████ ░██░██   ░██   ░██░██     ░███████ ░██    ░██ 
+  </text>
+  <text x="10" y="150" class="text">
+    ░██     ░██░██   ░██ ░██           ░██░██░██   ░██   ░██░██    ░██   ░██ ░██    ░██ 
+  </text>
+  <text x="10" y="175" class="text">
+    ░██     ░██ ░█████░██░██     ░███████ ░██░██   ░██   ░██░██     ░█████░██░██    ░██ 
+  </text>
+  <text x="10" y="200" class="text">
+                                                                                    
+  </text>
+  <text x="10" y="225" class="text">
+                                                                                    
+  </text>
+</svg>
